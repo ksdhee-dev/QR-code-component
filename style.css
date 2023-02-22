@@ -1,0 +1,33 @@
+.bg-container{
+    background-color: #d5e1ef;
+    text-align: center;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.card-container{
+    text-align: center;
+    background-color: white;
+    width: 290px;
+    padding: 15px;
+    border-radius: 10px;
+    height: 450px;
+}
+
+.qr-image{
+    width: 260px;
+    height: 260px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.heading{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.para{
+    font-weight: 200;
+    font-size: 15px;
+}
