@@ -1,9 +1,11 @@
+@import url("https://fonts.google.com/specimen/Outfit");
+
 .bg-container{
     background-color: #d5e1ef;
     text-align: center;
     background-size: cover;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .card-container{
@@ -13,6 +15,7 @@
     padding: 15px;
     border-radius: 10px;
     height: 450px;
+    font-family: [Outfit];
 }
 
 .qr-image{
@@ -23,11 +26,11 @@
 }
 
 .heading{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 700;
 }
 
 .para{
-    font-weight: 200;
+    font-weight: 400;
     font-size: 15px;
 }
