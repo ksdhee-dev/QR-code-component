@@ -2,7 +2,7 @@
 
 .bg-container{
     background-color: #d5e1ef;
-    text-align: center;
+    text-align: left;
     background-size: cover;
     padding-top: 60px;
     padding-bottom: 60px;
@@ -22,7 +22,7 @@
     width: 260px;
     height: 260px;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .heading{
